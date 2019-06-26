@@ -8,10 +8,9 @@ Aca vamos a escribir cosas
 
 
 ## Integrantes
-- <Integrante 1> - <Facultad>
-- <Integrante 2> - <Facultad>
-- <Integrante 3> - <Facultad>
-- <Integrante 4> - <Facultad>
+Aejandro Chepillo - Fcfm
+Raimundo Andrade - Fcfm
+Joaquin Zepeda - Fcfm
 
 
 ## Descripción del proyecto
