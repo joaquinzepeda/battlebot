@@ -8,6 +8,9 @@ int motorBhor = 10;
 int armaA = 3;
 int armaB = 12;
 
+/*
+ Variables establecidas para controlar el robot y sus armas
+ */
   
   
 
@@ -20,6 +23,10 @@ void setup()  {
   pinMode(armaB,OUTPUT);
   Serial.begin(9600);
  } 
+
+ /*
+  Pines asignados para cumplir con las funciones requeridas por las variables.
+  */
  
 void loop()  
 {
@@ -30,7 +37,7 @@ void loop()
   
   
   
-  if(Serial.available() >0)
+  if(Serial.available() >0)/* detecta si se envian señales y se interpretan a continuacion, la funciones disponibles son mover hacia adelante, atras, izquierda, derecha y accionar el arma. */
   {
     Serial.print("RECEIVED ");
     
