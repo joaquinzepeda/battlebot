@@ -3,7 +3,7 @@ Aca vamos a escribir cosas
 <Breve descripción del proyecto. Todo lo que esté entre llaves debe ser editado por ustedes>
 <Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
 
-![Robot "Rotor-Crart"](/multimedia/robot.jpg)
+![Robot "Rotor-Crart"](/multimedia/robot1.jpg)
 
 
 
