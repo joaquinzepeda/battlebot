@@ -7,10 +7,11 @@ Subir bocetos, con una breve expicación de las ideas del boceto.
 
 ![idea 2](/multimedia/ideas2.jpg)
 
-!(/multimedia/ideas3.jpg)
+![](/multimedia/ideas3.jpg)
 
-!(/multimedia/ideas4.jpg)
+![](/multimedia/ideas4.jpg)
 
-!(/multimedia/ideas5.jpg)
+![](/multimedia/ideas5.jpg)
 
-!(/multimedia/ideas6.jpg)
+![](/multimedia/ideas6.jpg)
+hola
