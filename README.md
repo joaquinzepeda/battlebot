@@ -35,11 +35,11 @@ y no sufriria daño, ya que está al girar en torno a la base circular la proteg
 
 ![aplicacion](/multimedia/app.jpg)
 
-La aplicacion hecha en MIT Inventor para controlar nuestro battle bot consta de 7 botones 2 botones para que se mueva adelante y atras haciendo girar las ruedas a la misma revolucion
+La aplicacion hecha en MIT Inventor para controlar nuestro battle bot consta de 7 botones. 2 botones para que se mueva adelante y atras haciendo girar las ruedas a la misma revolucion
 y para que avancen en el mismo sentido, otros 2 botones para que gire en si mismo a la derecha o a la izquierda, producto de que ambas ruedas se muevan a las mismas revoluciones,
-peor con sentido de giro contrario. Otro par de botones tenian la funcion de encender y apagar el arma a distancia, sin embargo este sistema no se utilizo al final, debido a que el puente H utilizado
+pero con sentido de giro contrario. Otro par de botones tenian la funcion de encender y apagar el arma a distancia, sin embargo este sistema no se utilizo al final, debido a que el puente H utilizado
 no dejaba pasar el suficiente amperaje, quitandole rendimiento a nuestra arma, por lo que esta funcion se reemplazo por un interruptor manual. finalmente, el ultimo boton tiene la finalidad de abrir
-un pantalla en la cual aparecen los posible dispositivos a los que conectarse mediante bluetooth.
+una pantalla en la cual aparecen los posible dispositivos a los que conectarse mediante bluetooth.
 
 ### Diagrama funcional
 <Diagrama general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
