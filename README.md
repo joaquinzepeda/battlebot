@@ -1,4 +1,4 @@
-﻿# rotorcrart - 2019
+﻿# Rotorcrart - 2019
 Battle-bot que consiste en una helice que lo recubrira, la cual sera su arma y su defensa. Y se movera con 2 ruedas traseras y una rueda delantera con su eje libre.
 
 
