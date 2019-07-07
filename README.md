@@ -1,7 +1,6 @@
 ﻿# rotorcrart - 2019
-Aca vamos a escribir cosas
-<Breve descripción del proyecto. Todo lo que esté entre llaves debe ser editado por ustedes>
-<Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
+Battle-bot que consiste en una helice que lo recubrira, la cual sera su arma y su defensa. Y se movera con 2 ruedas traseras y una rueda delantera con su eje libre.
+
 
 ![Robot "Rotor-Crart"](/multimedia/robot1.jpg)
 
@@ -16,9 +15,9 @@ Joaquin Zepeda - Fcfm
 ## Descripción del proyecto
 
 Nuestro Robot tiene una base redondeada de madera en donde sencuentra el arduino y los circuitos utilizados, consta de 3 ruedas.
-2 Ruedas traseras impulsadas por motores DC y una rueda delantera sentrada con un eje libre para moverse con libertad.
-En el centro de la base se encuentra un eje, mediante unos engranajes este se une a unos motor brushless de dron reciclado.
-en la párte superior se encuentra union en forma de "T", Perpendicular a este eje y atraves de la union atraviesa un tubo de PVC que se curva en 90 grados acercandose al final de
+2 Ruedas traseras impulsadas por motores DC y una rueda delantera centrada con un eje libre para moverse con libertad.
+En el centro de la base se encuentra un eje, este eje mediante unos engranajes se une a un motor brushless de dron reciclado.
+En la párte superior se encuentra union en forma de "T", Perpendicular a este eje y atraves de la union pasa un tubo de PVC que se curva en 90 grados acercandose al final de
 cada extremo, lo suficiente como para que cubra el robot al girar este eje. En ambos extremos se encuentran unidas unas tuercas solidas.
 
 ### Estrategia utilizada
