@@ -4,7 +4,8 @@ Subir imágenes y/o vídeos que les sirvieron como búsqueda/inspiración extern
 Subir bocetos, con una breve expicación de las ideas del boceto.
 
 ![Lluvia de ideas](/multimedia/ideas1.jpg)
- 
+
+Un movil que agarraria al enemgo y con un arma punzante atacaria al enemigo en la parte frontal.
 
 ![](/multimedia/ideas2.jpg)
 
