@@ -45,7 +45,77 @@ una pantalla en la cual aparecen los posible dispositivos a los que conectarse m
 <Diagrama general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
 
 ### *BONUS*: Paso a Paso
-<Explicar brevemente el paso a paso de cómo construir el battlebot.>
+paso 1: estar motivados para crear una máquina de matar.
+
+paso 2: comprar y/o reciclar materiales, los cuales son:
+- 50 cm de tubo de pvc de 25 mm
+- pegamento para pvc (vinilit)
+- dos codos y una T para el tubo de pvc
+- 4 tuercas de una pulgada
+- un pedazo de madero 30x30x3 cm
+- un motor de helicoptero o alguno similar, con un controlador para este.
+- 2 motores dc con ...
+- un puente H L298n
+- 2 ruedas con tracción
+- 1 rueda pivote
+- una gran cantidad de cables con conexiones macho-macho, macho-hembra
+- 4 pilas 18650
+- 2 porta pilas
+- bluetooth HC06
+- Arduino uno
+- un interruptor con gran capacidad ...
+- 4 cables gruesos
+- silicona
+- cola fría para madera
+*una cortadora laser
+- prensa
+- un eje de metal de al menos 15 cm de atura
+-cinta aislante
+- un engranaje o mecanismo para conectar el eje con el motor
+* decoración a gusto
+*materiales opcionales
+
+paso 3: lo primero que haremos, será construir la base para nuestro battlebot, para esto
+cortaremos la madera con nuestros planos, de preferencia con una cortadora laser, pero también
+puede utilizar otros métodos, los cortes del borde no necesitan ser tan precisos, pero el corte
+redondo (para el motor) debe ser lo más preciso posible, (el tamaño de este orificio puede variar
+dependiendo del porte del motor que tengan) ahora tienen que pegar todas las capas, menos la
+que va más arriba, ara esto usaremos la cola fría, y después pondremos la base en la presa para
+que queden bien pegadas las capas.
+
+paso 4: conectar el circuito, para probar que funcione todo sin problemas, después de que ya
+funcione todo bien por separado, colocar el Arduino y el puente H en sus posiciones correctas, y
+pasar los cables correspondientes por los caminos de la madera (puente H-hacia las ruedas puente
+H-hacia las pilas, puente H-Arduino)
+
+paso 5: pegar la capa de arriba de la madera.
+
+Paso 6: conectar las ruedas con los motores DC, y pegar la rueda pivote.
+
+Paso 7: ensamblar las demás cosas, conectando las cosas en sus respectivos pines y
+preocupándose de que los cables no sobresalgan mucho y que los componentes no estén muy
+cerca del engranaje para que no molesten el funcionamiento de este, colocar el engranaje, el
+motor y el eje.
+
+Paso 8: ahora armemos el arma, cortar el tubo para tener 2 tubos de 7 cm, 1 tubo de 3cm, 2 tubos
+de 14 cm, conectarlos (pegándolos con pegamento para pvc, tengan cuidado, infórmense de como
+pegarlo bien chicos) para formar una M, con los de 7 cm en los extremos y el de 3 cm en el centro.
+Después hacer un orificio en el centro de la T para atravesar el eje (que quede bastante preciso,
+para que se pueda afirmar bien)
+
+Paso 9: pegar el eje (según su forma de conectar el motor con el eje) al engranaje, y el eje pegarlo
+a la base, dejando un libre movimiento para el engranaje (traten de hacerlo lo más simétrico
+posible, y el eje lo más vertical, para que no sufra otros movimientos. Preocuparse de encajar bien
+el motor con el engranaje, hacer pruebas para ver que gire sin problemas.
+
+Paso 10: conectar el motor a las pilas, y asegurarse de que todos los componentes estén bien fijos
+en su posición (no queremos problemas futuros)
+
+Paso 11: colocar las tuercas en los extremos del tubo de 7cm, asegurándose que queden bien fijas
+(si es necesario, ponerle algún tipo de pegamento)
+
+Paso 12: colocar su battlebot en el piso, conectarlo con la aplicación, prender el arma y disfrutar
+de destruir a tus oponentes.
 
 ### Problemas y soluciones
 
